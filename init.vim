@@ -14,7 +14,7 @@ set wildmenu
 set relativenumber
 set nohls
 set nowrap
-set mouse=nv
+"set mouse=nv
 
 call plug#begin('~/.local/share/nvim/plugged')
 
